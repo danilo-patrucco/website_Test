@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b93f7b66-d1a5-43c6-92b4-8ccdcb6de6f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <workItem from="1571094775705" duration="1273000" />
       <workItem from="1571104090470" duration="606000" />
       <workItem from="1571265932545" duration="655000" />
-      <workItem from="1571696513563" duration="378000" />
+      <workItem from="1571696513563" duration="2158000" />
     </task>
     <task id="LOCAL-00001" summary="task: First commit">
       <created>1571095947232</created>
@@ -75,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571095947232</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task: setup boilerplate and add gitignore">
+      <created>1571696926291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571696926291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task: added readme.md file">
+      <created>1571697068020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571697068020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task: First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: First commit" />
+    <MESSAGE value="task: setup boilerplate and add gitignore" />
+    <MESSAGE value="task: added readme.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added readme.md file" />
   </component>
 </project>
