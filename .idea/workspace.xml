@@ -66,7 +66,7 @@
       <workItem from="1571094775705" duration="1273000" />
       <workItem from="1571104090470" duration="606000" />
       <workItem from="1571265932545" duration="655000" />
-      <workItem from="1571696513563" duration="2158000" />
+      <workItem from="1571696513563" duration="5997000" />
     </task>
     <task id="LOCAL-00001" summary="task: First commit">
       <created>1571095947232</created>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571697068020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task: test commit">
+      <created>1571699463001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571699463001</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +119,7 @@
     <MESSAGE value="task: First commit" />
     <MESSAGE value="task: setup boilerplate and add gitignore" />
     <MESSAGE value="task: added readme.md file" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: added readme.md file" />
+    <MESSAGE value="task: test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: test commit" />
   </component>
 </project>

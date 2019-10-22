@@ -104,6 +104,40 @@ textarea {
   margin-right: auto;
 }
 
+#primaryLinks {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#content{
+  width: 460px;
+  -webkit-flex: 3;
+  float: left;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+#sidebar
+{
+
+}
+
+#sidebarImage
+{
+  width: 200px;
+  float: left;
+  height: 300px;
+  background-color: green;
+}
+#footer
+{
+  position: relative;
+  clear:both;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
